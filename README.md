@@ -1,2 +1,3 @@
-# 67
-this code can delete system files if number 67 will choosed random
+Не используйте этот код в вредоносных целях.
+Do not use this code for malicious purposes.
+
