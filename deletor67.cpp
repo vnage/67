@@ -2,7 +2,7 @@
 #include <ctime>
 #include <cstdio>
 #include <cstring>
-//code by vnage tg:@feerase
+//code by vnage https://t.me/feeracode
 int main() {
     std::srand(std::time(nullptr));
     int roll = std::rand() % 100;
